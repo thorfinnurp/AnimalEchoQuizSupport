@@ -16,7 +16,7 @@ This page informs you of our policies regarding the collection, use, and disclos
 
 **Information Collection and Use**
 
-We do not collect any data.
+We use TelemetryDeck (telemetrydeck.com) to collect privacy-friendly, non-personally identifiable analytics to help us understand product usage and improve the app. TelemetryDeck collects a device identifier and product interaction events. This data is not linked to your identity, is not used for tracking across apps or websites, and is used only for analytics. 
 
 **Log Data**
 
